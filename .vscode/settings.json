@@ -1,0 +1,16 @@
+{
+    "ROS2.distro": "jazzy",
+    "python.autoComplete.extraPaths": [
+        "/home/cristopher-mancilla/ros2_ws/install/xarm_msgs/lib/python3.12/site-packages",
+        "/home/cristopher-mancilla/ros2_ws/install/uf_ros_lib/lib/python3.12/site-packages",
+        "/home/cristopher-mancilla/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/cristopher-mancilla/ros2_ws/install/xarm_msgs/lib/python3.12/site-packages",
+        "/home/cristopher-mancilla/ros2_ws/install/uf_ros_lib/lib/python3.12/site-packages",
+        "/home/cristopher-mancilla/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
+
